@@ -9,3 +9,10 @@
  *  Copyright (C) 2012 Tianyang Li
  */
 
+if (window.File && window.FileReader && window.FileList && window.Blob) {
+    
+} else {
+    // TODO: make this look better in the browser?
+    document.write('Please usea a browser that supports HTML5 (such as Chrome, Opera, or Firefox)');
+    document.write('请使用一个支持 HTML5 的浏览器 (例如 Chrome, Firefox, 或 Opera)');
+}
