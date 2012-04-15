@@ -6,4 +6,4 @@ zhongart.js is released under GPLv3.
 
 ***
 # Got any questions, or just interested in this project?
-Please contact me at [tmy1018@gmail.com](tmy1018@gmail.com).
+Please contact me at [tmy1018@gmail.com](mailto:tmy1018@gmail.com).
