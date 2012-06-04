@@ -16,3 +16,4 @@ if (window.File && window.FileReader && window.FileList && window.Blob) {
     document.write('<p>Please usea a browser that supports HTML5 (such as Chrome, Opera, or Firefox)</p>');
     document.write('<p>请使用一个支持 HTML5 的浏览器 (例如 Chrome, Firefox, 或 Opera)</p>');
 }
+
