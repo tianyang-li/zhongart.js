@@ -1,14 +1,14 @@
 /*
  *  zhongart.js
  *
- *  Create Chinese character ASCII art 
+ *  Create Chinese character ASCII art
  *  from an image using HTML5 and Javascript
  *
  *  Copyright (C) 2012 Tianyang Li
  */
 
 if (window.File && window.FileReader && window.FileList && window.Blob) {
-    
+
 } else {
     // TODO: make this look better in the browser?
     document.write('<p>Please usea a browser that supports HTML5 (such as Chrome, Opera, or Firefox)</p>');
